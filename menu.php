@@ -1,4 +1,5 @@
 - menu
 	- index
+	- services
 	- about
 	- contact
