@@ -1,5 +1,6 @@
 - menu
 	- index
+	- products
 	- services
 	- service-specials
 	- about

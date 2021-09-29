@@ -1,0 +1,4 @@
+- header.php
+- menu.php
+- content .style.product-details
+- footer.php
