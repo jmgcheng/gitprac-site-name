@@ -1,4 +1,4 @@
 - header.php
 - menu.php
-- content
+- content .style1.service-special-details
 - footer.php
