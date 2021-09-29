@@ -1,0 +1,4 @@
+- menu
+	- index
+	- about
+	- contact

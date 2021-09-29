@@ -1,4 +1,4 @@
-- header
-- menu
-- content
-- footer
+- header.php
+- menu.php
+- content .style1.content
+- footer.php
