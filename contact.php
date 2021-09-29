@@ -4,4 +4,6 @@
 	- contact1
 	- contact2
 	- contact3
+	- contact4
+	- contact5
 - footer.php
