@@ -1,4 +1,4 @@
 - header.php
 - menu.php
-- content
+- content .style.products
 - footer.php
