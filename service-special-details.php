@@ -1,0 +1,4 @@
+- header.php
+- menu.php
+- content
+- footer.php
