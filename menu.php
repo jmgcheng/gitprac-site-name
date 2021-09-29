@@ -1,4 +1,5 @@
 - menu
 	- index
+	- products
 	- about
 	- contact
